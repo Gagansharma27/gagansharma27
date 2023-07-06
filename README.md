@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software Developer | Full Stack Enthusiast | Open Source Contributor
+## Software Developer | Full Stack Enthusiast | Open Source Contributor
 
 👋 Hello, fellow developers! I'm Gagan Sharma, a passionate software developer with expertise in Java, Spring, and web development. I specialize in building robust and scalable applications, both on the frontend and backend.
 
@@ -27,6 +27,7 @@ Software Developer | Full Stack Enthusiast | Open Source Contributor
 
 🌟 I believe in the power of open source and actively contribute to projects that align with my interests. I enjoy collaborating with fellow developers, sharing knowledge, and engaging in the vibrant developer community.
 
-📫 Feel free to reach out to me at sharmagagan1820@gmail.com or connect with me on LinkedIn. I'm always open to interesting opportunities, collaborative projects, and discussions about software development.
+📫 Feel free to reach out to me at [Your Email Address](mailto:sharmagagan1820@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gagan-sharma-207485195/). I'm always open to interesting opportunities, collaborative projects, and discussions about software development.
 
 Let's push boundaries, write elegant code, and build innovative solutions together! 🚀
+
