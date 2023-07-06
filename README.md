@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 🌟 I believe in the power of open source and actively contribute to projects that align with my interests. I enjoy collaborating with fellow developers, sharing knowledge, and engaging in the vibrant developer community.
 
-📫 Feel free to reach out to me at [Your Email Address](mailto:sharmagagan1820@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gagan-sharma-207485195/). I'm always open to interesting opportunities, collaborative projects, and discussions about software development.
+📫 Feel free to reach out to me at [sharmgagan1820](mailto:sharmagagan1820@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gagan-sharma-207485195/). I'm always open to interesting opportunities, collaborative projects, and discussions about software development.
 
 Let's push boundaries, write elegant code, and build innovative solutions together! 🚀
 
