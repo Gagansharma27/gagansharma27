@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Software Developer | Full Stack Enthusiast | Open Source Contributor
 
-👋 Hello, fellow developers! I'm [Your Name], a passionate software developer with expertise in Java, Spring, and web development. I specialize in building robust and scalable applications, both on the frontend and backend.
+👋 Hello, fellow developers! I'm Gagan Sharma, a passionate software developer with expertise in Java, Spring, and web development. I specialize in building robust and scalable applications, both on the frontend and backend.
 
 💡 I have a strong foundation in Data Structures and Algorithms (DSA) and I'm constantly honing my problem-solving skills. I enjoy tackling challenging programming puzzles and optimizing code for efficiency.
 
