@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Software Developer | Full Stack Enthusiast | Open Source Contributor
+## Software Developer | Full Stack Enthusiast 
 
 👋 Hello, fellow developers! I'm Gagan Sharma, a passionate software developer with expertise in Java, Spring, and web development. I specialize in building robust and scalable applications, both on the frontend and backend.
 
